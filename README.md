@@ -2,54 +2,68 @@
 <div align="center">
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=300&color=0F0&background=0D0D0D&center=true&vCenter=true&width=450&lines=GSUS0001" alt="GSUS0001" />
-  
+
   ## $ TERMINAL v1.0 | MODO BUROCRATA ACTIVADO
-  
-</div><br>
+  </div><br>
 
 ## `$ whoami`
 
 ```bash
 > Gsus0001
-> Perfil: Obsesivo del orden | Amante de la burocracia de Git | Aprendiendo | Linux en exploración
+> Perfil: Aprendiz Constante | Amante de la burocracia de Git | Linux en exploración
 ```
 <br>
 
 ## `$ pwd`
-/home/gsus/repositorios
+/home/gsus/dev
 <br>
+
 ## $ `uptime --pretty`
-Commit activo | Sistema estable | Modo: enfoque total
+> `[BOOTING...]`  
+
+> `$ Inicializando Linux...`  
+
+> `$ Cargando Python...`  
+
+> `$ Montando Git...  `
 <br>
 
-### 📊 Estadísticas
+### 🔄 Estado del expediente
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gsus0001&show_icons=true&theme=dark&hide_title=true&bg_color=0D0D0D&title_color=0F0&text_color=0F0&icon_color=0F0" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Gsus0001&theme=dark&hide_border=true&background=0D0D0D&stroke=0F0&ring=0F0&fire=0F0&currStreakNum=0F0&sideNums=0F0&currStreakLabel=0F0&sideLabels=0F0&dates=0F0" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-<br>
+<!-- Cuadro 1: 0% -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=500&color=0F0&background=0D0D0D&center=false&vCenter=true&width=350&lines=Analizando+expediente...+%5B%5D+0%25" alt="0%" />
 
-### 📁 Proyectos Activos
+<br/>
 
-| Repositorio | Descripción |
-|-------------|-------------|
-| [Tecnicatura_2026](https://github.com/Gsus0001/Tecnicatura_2026) | Aprendizaje Constante |
-| [Python_Final](https://github.com/Gsus0001/Python_Final) | Proyecto en evolución |
-| [Gsus0001](https://github.com/Gsus0001/Gsus0001) | Mi perfil (siempre en construcción) |
+<!-- Cuadro 2: 20% -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=500&color=0F0&background=0D0D0D&center=false&vCenter=true&width=350&lines=Analizando+expediente...+%5B%3D%5D+20%25" alt="20%" />
+
+<br/>
+
+<!-- Cuadro 3: 40% -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=500&color=0F0&background=0D0D0D&center=false&vCenter=true&width=350&lines=Analizando+expediente...+%5B%3D%3D%3D%5D+40%25" alt="40%" />
+
+<br/>
+
+<!-- Cuadro 4: 60% -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=500&color=0F0&background=0D0D0D&center=false&vCenter=true&width=350&lines=Analizando+expediente...+%5B%3D%3D%3D%3D%5D+60%25" alt="60%" />
+
+<br/>
+
+<!-- Cuadro 5: 80% -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=500&color=0F0&background=0D0D0D&center=false&vCenter=true&width=350&lines=Analizando+expediente...+%5B%3D%3D%3D%3D%3D%5D+80%25" alt="80%" />
+
+<br/>
+
+<!-- Cuadro 6: Aprobado -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=500&color=0F0&background=0D0D0D&center=false&vCenter=true&width=350&lines=Expediente+aprobado." alt="Aprobado" />
 <br>
 
 ### 🤖 EL BUROCRATA DE GIT
 
 > "Git no es difícil. Solo tiene 150 comandos con 3 flags cada uno, 4 áreas internas, 3 estados posibles por archivo, y 5 maneras de hacer lo mismo. Pero fuera de eso, es sencillo."
 
-> "¿Que querés hacer un commit rápido? Primero llená el formulario ADD, después el COMMIT, y si no ponés mensaje, te lo rechazo."<br>
+> "¿Que querés hacer un commit rápido? Primero llená el formulario ADD, después el COMMIT, y si no ponés mensaje, te lo rechazo."<br>  
 
 
 <p align="center">
@@ -59,37 +73,26 @@ Commit activo | Sistema estable | Modo: enfoque total
 </p>
 <br>
 # app.py
+```
+# expediente_git.py
 
-```python
-# app.py
+class DepartamentoGit:
+    def __init__(self):
+        self.estado = "OPERATIVO"
 
-from flask import Flask, render_template, request, redirect, url_for
-from utils import obtener_datos, procesar_datos
-from db import conectar
+    def revisar_commit(self, mensaje):
+        if len(mensaje) < 10:
+            return "RECHAZADO: Describa mejor el commit."
 
-app = Flask(__name__)
+        return "APROBADO: Commit registrado."
 
-@app.route('/')
-def index():
-    datos = obtener_datos()
-    return render_template('index.html', datos=datos)
+git = DepartamentoGit()
 
-@app.route('/agregar', methods=['POST'])
-def agregar():
-    nombre = request.form['nombre']
-    valor = request.form['valor']
-    conexion = conectar()
-    cursor = conexion.cursor()
-    cursor.execute('INSERT INTO datos (nombre, valor) VALUES (%s, %s)', (nombre, valor))
-    conexion.commit()
-    return redirect(url_for('index'))
+resultado = git.revisar_commit(
+    "Corrige validación de usuarios"
+)
 
-# Más código abajo...
-
-def procesar():
-    datos = obtener_datos()
-    resultado = procesar_datos(datos)
-    return resultado
+print(resultado)
 ```
 <div align="center"><br>
   
