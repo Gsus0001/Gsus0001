@@ -4,19 +4,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=300&color=0F0&background=0D0D0D&center=true&vCenter=true&width=450&lines=GSUS0001" alt="GSUS0001" />
 
   ## $ TERMINAL v1.0 | MODO BUROCRATA ACTIVADO
-  </div><br>
-
+  </div>
+  
 ## `$ whoami`
 
 ```bash
 > Gsus0001
 > Perfil: Aprendiz Constante | Amante de la burocracia de Git | Linux en exploración
 ```
-<br>
 
 ## `$ pwd`
 /home/gsus/dev
-<br>
+<br>  
 
 ## $ `uptime --pretty`
 > `[BOOTING...]`  
@@ -33,31 +32,26 @@
 <!-- Cuadro 1: 0% -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=500&color=0F0&background=0D0D0D&center=false&vCenter=true&width=350&lines=Analizando+expediente...+%5B%5D+0%25" alt="0%" />
 
-<br/>
 
 <!-- Cuadro 2: 20% -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=500&color=0F0&background=0D0D0D&center=false&vCenter=true&width=350&lines=Analizando+expediente...+%5B%3D%5D+20%25" alt="20%" />
 
-<br/>
 
 <!-- Cuadro 3: 40% -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=500&color=0F0&background=0D0D0D&center=false&vCenter=true&width=350&lines=Analizando+expediente...+%5B%3D%3D%3D%5D+40%25" alt="40%" />
 
-<br/>
 
 <!-- Cuadro 4: 60% -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=500&color=0F0&background=0D0D0D&center=false&vCenter=true&width=350&lines=Analizando+expediente...+%5B%3D%3D%3D%3D%5D+60%25" alt="60%" />
 
-<br/>
 
 <!-- Cuadro 5: 80% -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=500&color=0F0&background=0D0D0D&center=false&vCenter=true&width=350&lines=Analizando+expediente...+%5B%3D%3D%3D%3D%3D%5D+80%25" alt="80%" />
 
-<br/>
 
 <!-- Cuadro 6: Aprobado -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=500&color=0F0&background=0D0D0D&center=false&vCenter=true&width=350&lines=Expediente+aprobado." alt="Aprobado" />
-<br>
+
 
 ### 🤖 EL BUROCRATA DE GIT
 
@@ -101,22 +95,9 @@ print(resultado)
   `N° de expediente: GIT-2026-001 | Fecha de emisión: Hoy | Validez: Hasta el próximo commit --force`
 
 </div><br>
-
+```
 🟢 `>Estado: Operativo     |    📅 Última conexión: Hoy     `<br>
 
 👁️ `>Accesos Registrados:`<br>
 
 ![Visitas](https://komarev.com/ghpvc/?username=Gsus0001&color=0F0&style=flat-square&label=ACCESOS)
-
-
-
-
-
-
-
-
-
-
-
-
-
