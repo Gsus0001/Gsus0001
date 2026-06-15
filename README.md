@@ -3,7 +3,7 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=300&color=0F0&background=0D0D0D&center=true&vCenter=true&width=450&lines=GSUS0001" alt="GSUS0001" />
 
-  **## $ TERMINAL v1.0 | MODO BUROCRATA ACTIVADO**
+ ## ** $ TERMINAL v1.0 | MODO BUROCRATA ACTIVADO**
   </div>
   
 ## `$ whoami`
