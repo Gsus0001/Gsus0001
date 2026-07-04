@@ -39,7 +39,7 @@
 ```diff
 $ "Git no es difícil. Solo tiene 150 comandos con 3 flags cada uno, 4 áreas internas, 3 estados posibles por archivo, y 5 maneras de hacer lo mismo. Pero fuera de eso, es sencillo."
 
-$ "¿Que querés hacer un commit rápido? Primero llená el formulario ADD, después el COMMIT, y si no ponés mensaje, te lo rechazo."<br>  
+$ "¿Que querés hacer un commit rápido? Primero llená el formulario ADD, después el COMMIT, y si no ponés mensaje, te lo rechazo."  
 ```
 
 <p align="center">
@@ -79,6 +79,6 @@ print(resultado)
 
 ## 🟢 `Estado: Operativo     |    📅 Última conexión: Hoy     `<br>
 
-##👁️ `Accesos Registrados:`
+## 👁️ `Accesos Registrados:`
 
 ![Visitas](https://komarev.com/ghpvc/?username=Gsus0001&color=green&style=flat-square&label=ACCESOS)
