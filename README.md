@@ -36,11 +36,10 @@
 
 
 ## 🤖 `EL BUROCRATA DE GIT`
-```diff
-$ "Git no es difícil. Solo tiene 150 comandos con 3 flags cada uno, 4 áreas internas, 3 estados posibles por archivo, y 5 maneras de hacer lo mismo. Pero fuera de eso, es sencillo."
 
-$ "¿Que querés hacer un commit rápido? Primero llená el formulario ADD, después el COMMIT, y si no ponés mensaje, te lo rechazo."  
-```
+***$ "Git no es difícil. Solo tiene 150 comandos con 3 flags cada uno, 4 áreas internas, 3 estados posibles por archivo, y 5 maneras de hacer lo mismo. Pero fuera de eso, es sencillo."***
+
+***$ "¿Qué querés hacer un commit rápido? Primero llená el formulario ADD, después el COMMIT, y si no ponés mensaje, te lo rechazo."***
 
 <p align="center">
   <img src="https://img.shields.io/badge/📄_EXPEDIENTE_GIT-ACTIVO-0F0?style=flat-square&labelColor=0D0D0D&color=0F0" />
