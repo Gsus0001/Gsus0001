@@ -18,7 +18,7 @@
 ```
 
 ---
-## 📄 'Expediente Personal' 
+## 📄 `Expediente Personal` 
 
 ***"Estudio programación en la UTN, ciberseguridad, adm. de servidores e trabajo, y entre clase y clase, me la paso rompiendo cosas en Linux y tratando de entender por qué Git tiene tantos comandos. No soy developer (todavía), pero soy al que le gusta intentar, reinstalar y volver a intentar."***
 
